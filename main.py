@@ -16,5 +16,5 @@ kecepatan = hitung_kecepatan(1000, 5 * 60)
 kecepatan = hitung_kecepatan(3000, 70 * 60)
 
 
-#TUGAS: buat fungsi _APA_SAJA_YANG_KALIAN_TAHU
-#DAN GUNAKAN
+# TUGAS: buat fungsi _APA_SAJA_YANG_KALIAN_TAHU
+# DAN GUNAKAN
