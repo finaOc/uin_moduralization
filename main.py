@@ -12,6 +12,3 @@ def hitung_tekanan(gaya, luas):
 # gaya = 100
 # luas = 20
 tekanan = hitung_tekanan(100, 20)
-
-# TUGAS: buat fungsi _APA_SAJA_YANG_KALIAN_TAHU
-# DAN GUNAKAN
